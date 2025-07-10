@@ -1,6 +1,6 @@
 // ID : 22011261
 // Name : Lee Pei Lin
-// Lab : Lab 3 - Simple Stack (Linked List)
+// Lab : Lab 5 - Simple Stack (Linked List)
 
 #include <iostream>
 using namespace std;
