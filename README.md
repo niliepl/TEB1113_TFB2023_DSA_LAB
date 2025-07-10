@@ -6,9 +6,9 @@
 
 | Lab Task             | Link |
 |----------------------|------|
-| Lab 1 - Array        | [View File](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L1/22011261_PeiLin_L1.cpp) |
-| Lab 2 - Stack        | [View File](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L2/22011261_PeiLin_L2.cpp) |
-| Lab 3 - Queue        | [View File](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L3/22011261_PeiLin_L3.cpp) |
-| Lab 4 - Linked List  | [View File](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L4/22011261_PeiLin_L4.cpp) |
-| Lab 5 - Circular Queue | [View File](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L5/22011261_PeiLin_L5.cpp) |
-| Lab 6 - Binary Tree  | [View File](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L6/22011261_PeiLin_L6.cpp) |
+| Lab 1                | [Array](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L1/22011261_PeiLin_L1.cpp) |
+| Lab 2                | [Easy](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L2/easy.cpp) , [Medium](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L2/medium.cpp) , [Hard](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L2/hard.cpp) |
+| Lab 3                | [Singly List](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L3/Singly_List.cpp), [Doubly List](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L3/Doubly_List.cpp) |
+| Lab 4                | [Circular List (Forward)](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L4/Circular_List_Asc.cpp) ,[Circular List (Backward)](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L4/Circular_List_Desc.cpp) |
+| Lab 5                | [Stack List](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/tree/main/22011261_L5) |
+| Lab 6                | [Link List Queue](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L6/Queue.cpp),[Circular Queue](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L6/Circular_Queue.cpp),[Array Queue](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L6/Array_Queue.cpp) |
