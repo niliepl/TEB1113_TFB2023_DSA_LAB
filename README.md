@@ -14,5 +14,5 @@
 | Lab 6                | [Link List Queue](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L6/Queue.cpp),[Circular Queue](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L6/Circular_Queue.cpp),[Array Queue](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L6/Array_Queue.cpp) |
 | Lab7                 | [Binary Tree](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L7/Binary_Tree.cpp) |
 | Lab8                 | [Binary Search Tree](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L8/BinarySearch_Tree.cpp) |
-| Group Project (G4)   | [Attendence_app](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/tree/main/GroupProject_DIM) |
+| Group Project (G4)   | [Attendence_app](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/GroupProject_Algo/Attendance_App.zip) |
 
