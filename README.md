@@ -16,3 +16,39 @@
 | Lab 8                | [Binary Search Tree](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/22011261_L8/BinarySearch_Tree.cpp) |
 | Group Project (G4)   | [Attendence_app](https://github.com/niliepl/TEB1113_TFB2023_DSA_LAB/blob/main/GroupProject_Algo/Attendance_App.zip) |
 
+# Attendance App Tracker (Group Project)
+
+An Android application that demonstrates the use of **Array** and **Linked List** data structures for student attendance management, built with **Kotlin** and **C++ (Android NDK)**.  
+The app visualizes insertions step-by-step with horizontal scrolling blocks, performance statistics, and memory usage summaries — making it both a functional tool and an educational project.  
+
+---
+
+## 📌 Features
+- Student ID insertion with **Array** or **Linked List** implementation.  
+- Real-time **visualization of data structure updates** (shifting, node linking).  
+- Step-by-step execution logs with automatic scrolling.  
+- Performance tracking: operation steps, execution time and memory usage.  
+- Horizontal scroll visualization of array/linked list blocks.  
+- Interactive and user-friendly Android UI.  
+
+---
+
+## 🛠 Tech Stack
+- **Kotlin** (Frontend logic & Android UI)  
+- **C++ / Android NDK** (Backend logic for algorithm efficiency)  
+- **XML** (UI design)  
+
+---
+
+## 📂 Project Structure
+- `/app/src/main/java/com/example/attendance_app` → Kotlin files  
+- `/app/src/main/cpp` → C++ logic (if applicable)  
+- `/res/layout` → XML UI layouts  
+
+---
+
+## 📑 Documentation
+- 📄 [Download Project Report (PDF)](./docs/StudentVisualizer_Report.pdf)  
+- 🎥 [View Project Presentation (Google Drive / YouTube Link)](https://www.canva.com/design/DAGuV7OrQ2I/hGn9Nipu7ij9Z8B4iFX6xQ/edit?utm_content=DAGuV7OrQ2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+
+
