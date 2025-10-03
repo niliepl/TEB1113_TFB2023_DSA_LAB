@@ -42,7 +42,7 @@ The app visualizes insertions step-by-step with horizontal scrolling blocks, per
 
 ## 📂 Project Structure
 - `/app/src/main/java/com/example/attendance_app` → Kotlin files  
-- `/app/src/main/cpp` → C++ logic (if applicable)  
+- `/app/src/main/cpp` → C++ logic
 - `/res/layout` → XML UI layouts  
 
 ---
