@@ -48,7 +48,7 @@ The app visualizes insertions step-by-step with horizontal scrolling blocks, per
 ---
 
 ## 📑 Documentation
-- 📄 [Download Project Report (PDF)](./blob/main/GroupProject_Algo/Attandence_Tracker.pdf)  
-- 🎥 [View Project Presentation (Google Drive / YouTube Link)](https://www.canva.com/design/DAGuV7OrQ2I/hGn9Nipu7ij9Z8B4iFX6xQ/edit?utm_content=DAGuV7OrQ2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- 📄 [Download Project Report (PDF)](./blob/main/GroupProject_Algo/Attandance_Tracker.pdf)  
+- 🎥 [View Project Presentation](https://www.canva.com/design/DAGuV7OrQ2I/hGn9Nipu7ij9Z8B4iFX6xQ/edit?utm_content=DAGuV7OrQ2I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 
